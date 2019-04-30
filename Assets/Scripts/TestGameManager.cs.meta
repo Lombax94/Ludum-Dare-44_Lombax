@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: c0acfd9f69877c64fb874309151da2f2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Items: {fileID: 4343727234628468602, guid: 116f5eecd9b70c34cad1b7b3212752a2, type: 2}
+  - NumbersAndHeads: {fileID: 4343727234628468602, guid: 6af52d6fddb6c9046aa2fc369e0ceba0,
+      type: 2}
+  - TheItemPrefab: {fileID: 7958630924305268630, guid: 501be08e6bae54e45b195e868016f834,
+      type: 3}
+  - TheEnemyPrefab: {fileID: 160691942096901183, guid: 7136f165c93153849b1f15e72e60a2a1,
+      type: 3}
+  - TheAltarPrefab: {fileID: 2639632818683823329, guid: 4988b52c99ca09649ac0ae41560b7c9f,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

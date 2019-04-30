@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: NumbersAndHeads
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 40c9d63e58f47474abfc595f6b919d23, type: 3}
+    totalSpriteSurfaceArea: 3670
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -6219814985454608196, guid: 40c9d63e58f47474abfc595f6b919d23, type: 3}
+  - {fileID: -375862407053876627, guid: 40c9d63e58f47474abfc595f6b919d23, type: 3}
+  - {fileID: 4314401043594501000, guid: 40c9d63e58f47474abfc595f6b919d23, type: 3}
+  - {fileID: -2178893339957819647, guid: 40c9d63e58f47474abfc595f6b919d23, type: 3}
+  - {fileID: 8930237542538617760, guid: 40c9d63e58f47474abfc595f6b919d23, type: 3}
+  - {fileID: 8809919015408078154, guid: 40c9d63e58f47474abfc595f6b919d23, type: 3}
+  - {fileID: -1362494087127656623, guid: 40c9d63e58f47474abfc595f6b919d23, type: 3}
+  - {fileID: 4347126075953008749, guid: 40c9d63e58f47474abfc595f6b919d23, type: 3}
+  - {fileID: -8139673332127272901, guid: 40c9d63e58f47474abfc595f6b919d23, type: 3}
+  - {fileID: 4361200447231759242, guid: 40c9d63e58f47474abfc595f6b919d23, type: 3}
+  - {fileID: 3653639862051638779, guid: 40c9d63e58f47474abfc595f6b919d23, type: 3}
+  - {fileID: 9154600274879639914, guid: 40c9d63e58f47474abfc595f6b919d23, type: 3}
+  - {fileID: -6991305046837672576, guid: 40c9d63e58f47474abfc595f6b919d23, type: 3}
+  - {fileID: 9182923289926299893, guid: 40c9d63e58f47474abfc595f6b919d23, type: 3}
+  - {fileID: 2381489576957890567, guid: 40c9d63e58f47474abfc595f6b919d23, type: 3}
+  - {fileID: -6014156442188495258, guid: 40c9d63e58f47474abfc595f6b919d23, type: 3}
+  - {fileID: 8197297527201681367, guid: 40c9d63e58f47474abfc595f6b919d23, type: 3}
+  - {fileID: 5684200991568632702, guid: 40c9d63e58f47474abfc595f6b919d23, type: 3}
+  - {fileID: 8345003945424622672, guid: 40c9d63e58f47474abfc595f6b919d23, type: 3}
+  - {fileID: 4146574722938635885, guid: 40c9d63e58f47474abfc595f6b919d23, type: 3}
+  - {fileID: 6090557017855627338, guid: 40c9d63e58f47474abfc595f6b919d23, type: 3}
+  - {fileID: -8366382234749319234, guid: 40c9d63e58f47474abfc595f6b919d23, type: 3}
+  - {fileID: 5950927641522294446, guid: 40c9d63e58f47474abfc595f6b919d23, type: 3}
+  - {fileID: -408265060346478127, guid: 40c9d63e58f47474abfc595f6b919d23, type: 3}
+  - {fileID: 4989638845968999080, guid: 40c9d63e58f47474abfc595f6b919d23, type: 3}
+  - {fileID: 5657050013926689374, guid: 40c9d63e58f47474abfc595f6b919d23, type: 3}
+  - {fileID: 4668850842629654375, guid: 40c9d63e58f47474abfc595f6b919d23, type: 3}
+  - {fileID: 9027809871877896785, guid: 40c9d63e58f47474abfc595f6b919d23, type: 3}
+  - {fileID: 3815647828534530424, guid: 40c9d63e58f47474abfc595f6b919d23, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Red8
+  - Red9
+  - Red4
+  - Red5
+  - Red6
+  - Red7
+  - Red0
+  - Red1
+  - Red2
+  - Red3
+  - FemaleHead4
+  - FemaleHead3
+  - FemaleHead2
+  - FemaleHead1
+  - Green8
+  - Green9
+  - Green4
+  - Green5
+  - Green6
+  - Green7
+  - Green0
+  - Green1
+  - Green2
+  - Green3
+  - TheBody
+  - MaleHead2
+  - MaleHead3
+  - MaleHead1
+  - MaleHead4
+  m_Tag: NumbersAndHeads
+  m_IsVariant: 0

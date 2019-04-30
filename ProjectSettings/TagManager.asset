@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Displays
+  - MidwayPoints
+  - ScoreBoard
+  - Door
   layers:
   - Default
   - TransparentFX
@@ -13,7 +17,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - testlayer
   - 
   - 
   - 
@@ -40,4 +44,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Normal
+    uniqueID: 261383167
+    locked: 0
+  - name: Light
+    uniqueID: 1564897885
+    locked: 0
+  - name: Display
+    uniqueID: 2622285725
     locked: 0
